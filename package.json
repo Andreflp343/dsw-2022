@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "module-alias": "^2.2.2",
+    "yarn": "^1.22.19"
+  },
+  "name": "starwars-api-2022",
+  "description": "API de exemplo para o projeto MVP da Fatec de Araras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.6",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreflp343/dsw-2022.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "André Felipe de Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andreflp343/dsw-2022/issues"
+  },
+  "homepage": "https://github.com/Andreflp343/dsw-2022#readme"
+}
